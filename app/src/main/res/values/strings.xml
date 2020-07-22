@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baitapthietlaptt</string>
+    <string name="editinfo">ENTER INTFORMATIC</string>
+    <string name="btninfo">INFO</string>
+    <string name="btnNextPage">Next Page</string>
+    <string name="btnExit">Exit</string>
+</resources>
